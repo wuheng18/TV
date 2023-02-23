@@ -680,7 +680,10 @@ TVB功夫,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_1793022
 
 功夫台,P2p://generationnexxxt.com:19806/71525f6981314b64b5168b51e982babd
 HOY资讯台,P2p://generationnexxxt.com:19806/cc9caf55933442cea14bb3b723af873c
-马来|频道_110,#genre#
+
+
+
+马来|频道,#genre#
 CNN,P2p://generationnexxxt.com:19806/fd411706eeba4cd89f853e57069e4eb6
 TV1,P2p://generationnexxxt.com:19806/ec218fc36acc44908a6ca35bb6b4a15d
 TV2,P2p://generationnexxxt.com:19806/693f89c2a9d8479ca12d6e93e08423ef
