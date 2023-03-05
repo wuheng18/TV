@@ -716,20 +716,19 @@ tvN Movies HD,P2p://generationnexxxt.com:19806/ae806aaeb4f5487a86dc0d8e371e347b
 Astro Awani,P2p://generationnexxxt.com:19806/a32ed746445b45128fc97cff0723bf6c
 
 午夜|频道,#genre#
-彩虹e台,P2p://generationnexxxt.com:19806/3d8f43de242d49b6be4616aa4ef40f8d
-彩虹电影台,P2p://generationnexxxt.com:19806/d39f0c9d15df42aaa2486ecaac9ed5a8
-LOOK TV,P2p://generationnexxxt.com:19806/a058f3e33b5f4b28ab0a035345a7762e
-潘朵啦玩美台,P2p://generationnexxxt.com:19806/05e56c737cc044a5acd6a4e76a9b8d61
-惊豔成人电影台,P2p://generationnexxxt.com:19806/e015a3821629475e9c73694dbc170d9d
-松视1台,P2p://generationnexxxt.com:19806/c89103eeecc64e2eb26b4cb6c9b89a07
-松视2台,P2p://generationnexxxt.com:19806/468e47f4b4ae47879a171eb0dd75f463
-PLAYBOY,P2p://generationnexxxt.com:19806/0a3f9dba3ca34135971374b62deb50c0
-香蕉台,P2p://generationnexxxt.com:19806/eda0fc87e17349c5a8e94c1ffceed3b3
-松视3台,P2p://generationnexxxt.com:19806/c41a63bb2c364ee39e7909477f1fba8f
-JStar极限台,P2p://generationnexxxt.com:19806/ede07f651b8048d0afe848d448faad1e
-HAPPY,P2p://generationnexxxt.com:19806/dce67c84705846808666973c4fd4efd9
-K,P2p://generationnexxxt.com:19806/c0a11fa2d2964825956fa8ba2f980b68
-
+彩虹e台,mitv://generationnexxxt.com:19806/3d8f43de242d49b6be4616aa4ef40f8d
+彩虹電影台,mitv://generationnexxxt.com:19806/d39f0c9d15df42aaa2486ecaac9ed5a8
+LOOK TV,mitv://generationnexxxt.com:19806/a058f3e33b5f4b28ab0a035345a7762e
+潘朵啦玩美台,mitv://generationnexxxt.com:19806/05e56c737cc044a5acd6a4e76a9b8d61
+驚豔成人電影台,mitv://generationnexxxt.com:19806/e015a3821629475e9c73694dbc170d9d
+松視1台,mitv://generationnexxxt.com:19806/c89103eeecc64e2eb26b4cb6c9b89a07
+松視2台,mitv://generationnexxxt.com:19806/468e47f4b4ae47879a171eb0dd75f463
+PLAYBOY,mitv://generationnexxxt.com:19806/0a3f9dba3ca34135971374b62deb50c0
+香蕉台,mitv://generationnexxxt.com:19806/eda0fc87e17349c5a8e94c1ffceed3b3
+松視3台,mitv://generationnexxxt.com:19806/c41a63bb2c364ee39e7909477f1fba8f
+JStar極限台,mitv://generationnexxxt.com:19806/ede07f651b8048d0afe848d448faad1e
+HAPPY,mitv://generationnexxxt.com:19806/dce67c84705846808666973c4fd4efd9
+K,mitv://generationnexxxt.com:19806/c0a11fa2d2964825956fa8ba2f980b68
 
 午夜专区,#genre#
 午夜1,http://live.redtraffic.xyz:80/interracial.m3u8
